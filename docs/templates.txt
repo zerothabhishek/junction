@@ -1,0 +1,79 @@
+
+
+First time: No slides. No outline.
+-------------------------------------
+
+Hi,  
+
+Thanks for submitting your talk proposal.  
+We are expecting a few thing from proposals, the most important being:
+
+- An outline of the content you're planning to cover  
+- The slides of the presentation you'll be using for the talk  
+(More details and examples in [proposal-guidelines](https://github.com/pythonindia/junction/wiki/Speaker-best-practices))
+
+Please add the requisite details (slides/outline) so we can consider it for the technical review.
+
+Best regards,  
+CFP Coordinator  
+
+
+
+First time: Slides/outline present, details good
+---------------------------------------------------------------
+
+Hello ,  
+Thanks for submitting your talk proposal.  
+
+You've provided ample description, attached the slides and have added a teaser video too. That's great. We're moving this proposal to the next round of review.
+
+All the best,
+CFP Coordinator.
+
+
+
+
+
+Reminder: Asking for slides
+----------------------------
+
+Hi,  
+
+We have started with the technical reviews now, and there are two main prerequisites for each proposal:
+
+- An outline of the content you're planning to cover  
+- The slides of the presentation you'll be using for the talk  
+(More details and examples in [proposal-guidelines](https://github.com/pythonindia/junction/wiki/Speaker-best-practices))
+
+**Please add/complete the slides as soon as you can**. Only after that we'll be able to take up your proposal for review.
+
+Best regards,  
+CFP Coordinator  
+
+
+
+
+
+Reminder: Asking for outline/details (slides present)
+-----------------------------------------------------
+
+Hi,  
+You've provided ample description, and have attached the slides too. That's good. It will be great if you can also add an outline of the talk. After that we can move it to the next round of review.
+
+Best regards,
+CFP Coordinator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
