@@ -58,7 +58,8 @@ Reminder: Asking for outline/details (slides present)
 -----------------------------------------------------
 
 Hi,  
-You've provided ample description, and have attached the slides too. That's good. It will be great if you can also add an outline of the talk. After that we can move it to the next round of review.
+You've provided ample description, and have attached the slides too. That's good.  
+It will be great if you can also add an outline of the talk. After that we can move it to the next round of review.
 
 Best regards,
 CFP Coordinator
