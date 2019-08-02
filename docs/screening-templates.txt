@@ -6,16 +6,17 @@ First time: No slides. No outline.
 Hi,  
 
 Thanks for submitting your talk proposal.  
-We are expecting a few thing from proposals, the most important being:
+As a part of our process, we are expecting a few thing from proposals, the most important being:
 
 - An outline of the content you're planning to cover  
 - The slides of the presentation you'll be using for the talk  
 (More details and examples in [proposal-guidelines](https://github.com/pythonindia/junction/wiki/Speaker-best-practices))
 
-Please add the requisite details (slides/outline) so we can consider it for the technical review.
+You've already added fairly good amount of detail to the proposal. Please add the slides you are planning to use, so we can proceed with the technical reviews.
 
 Best regards,  
 CFP Coordinator  
+
 
 
 
